@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "title": "Camiseta Algodón",
+        "description": "Camiseta de algodón 100% con diseño moderno.",
+        "price": 19.99,
+        "img": "https://example.com/img/camiseta1.jpg",
+        "code": "CAM123",
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "title": "Pantalones Vaqueros",
+        "description": "Pantalones vaqueros de corte clásico, cómodos y duraderos.",
+        "price": 39.99,
+        "img": "https://example.com/img/pantalones1.jpg",
+        "code": "PAN456",
+        "stock": 50
+    },
+    {
+        "id": 3,
+        "title": "Zapatos Deportivos",
+        "description": "Zapatos deportivos para correr, con suela antideslizante.",
+        "price": 59.99,
+        "img": "https://example.com/img/zapatos1.jpg",
+        "code": "ZAP789",
+        "stock": 200
+    },
+    {
+        "id": 4,
+        "title": "Reloj Digital",
+        "description": "Reloj digital resistente al agua con múltiples funciones.",
+        "price": 29.99,
+        "img": "https://example.com/img/reloj1.jpg",
+        "code": "REL321",
+        "stock": 75
+    },
+    {
+        "id": 5,
+        "title": "Mochila Escolar",
+        "description": "Mochila con múltiples compartimentos y diseño ergonómico.",
+        "price": 24.99,
+        "img": "https://example.com/img/mochila1.jpg",
+        "code": "MOC654",
+        "stock": 150
+    },
+    {
+        "id": 6,
+        "title": "Gafas de Sol",
+        "description": "Gafas de sol de diseño elegante y protección UV.",
+        "price": 15.99,
+        "img": "https://example.com/img/gafas1.jpg",
+        "code": "GAF987",
+        "stock": 120
+    },
+    {
+        "id": 7,
+        "title": "Auriculares Inalámbricos",
+        "description": "Auriculares Bluetooth con sonido de alta calidad y micrófono integrado.",
+        "price": 49.99,
+        "img": "https://example.com/img/auriculares1.jpg",
+        "code": "AUR159",
+        "stock": 80
+    },
+    {
+        "id": 8,
+        "title": "Smartphone Android",
+        "description": "Smartphone con pantalla Full HD y 64GB de almacenamiento.",
+        "price": 199.99,
+        "img": "https://example.com/img/smartphone1.jpg",
+        "code": "SMA111",
+        "stock": 60
+    },
+    {
+        "id": 9,
+        "title": "Laptop Portátil",
+        "description": "Laptop ligera con procesador Intel Core i5 y 8GB de RAM.",
+        "price": 499.99,
+        "img": "https://example.com/img/laptop1.jpg",
+        "code": "LAP222",
+        "stock": 30
+    },
+    {
+        "id": 10,
+        "title": "Tablet 10 pulgadas",
+        "description": "Tablet con pantalla de 10 pulgadas, ideal para el entretenimiento.",
+        "price": 129.99,
+        "img": "https://example.com/img/tablet1.jpg",
+        "code": "TAB333",
+        "stock": 100
+    },
+    {
+        "id": 11,
+        "title": "Cafetera Eléctrica",
+        "description": "Cafetera eléctrica con función de programación automática.",
+        "price": 39.99,
+        "img": "https://example.com/img/cafetera1.jpg",
+        "code": "CAF444",
+        "stock": 80
+    },
+    {
+        "id": 12,
+        "title": "Tetera de Acero",
+        "description": "Tetera de acero inoxidable para calentar agua rápidamente.",
+        "price": 24.99,
+        "img": "https://example.com/img/tetera1.jpg",
+        "code": "TET555",
+        "stock": 150
+    },
+    {
+        "id": 13,
+        "title": "Cámara de Seguridad",
+        "description": "Cámara de seguridad inalámbrica con visión nocturna y audio bidireccional.",
+        "price": 89.99,
+        "img": "https://example.com/img/camara1.jpg",
+        "code": "CAM666",
+        "stock": 50
+    },
+    {
+        "id": 14,
+        "title": "Robot Aspiradora",
+        "description": "Robot aspiradora con tecnología de mapeo y control remoto.",
+        "price": 299.99,
+        "img": "https://example.com/img/robot1.jpg",
+        "code": "ROBOT777",
+        "stock": 60
+    },
+    {
+        "id": 15,
+        "title": "Silla Ergonomica",
+        "description": "Silla ergonómica ajustable para oficina con soporte lumbar.",
+        "price": 149.99,
+        "img": "https://example.com/img/silla1.jpg",
+        "code": "SIL888",
+        "stock": 25
+    },
+    {
+        "id": 16,
+        "title": "Teclado Mecánico",
+        "description": "Teclado mecánico con retroiluminación RGB y teclas anti-ghosting.",
+        "price": 59.99,
+        "img": "https://example.com/img/teclado1.jpg",
+        "code": "TEC999",
+        "stock": 120
+    },
+    {
+        "id": 17,
+        "title": "Ratón Gaming",
+        "description": "Ratón gaming con sensibilidad ajustable y diseño ergonómico.",
+        "price": 29.99,
+        "img": "https://example.com/img/raton1.jpg",
+        "code": "RAT001",
+        "stock": 200
+    },
+    {
+        "id": 18,
+        "title": "Altavoces Bluetooth",
+        "description": "Altavoces portátiles Bluetooth con sonido estéreo de alta calidad.",
+        "price": 39.99,
+        "img": "https://example.com/img/altavoces1.jpg",
+        "code": "ALT002",
+        "stock": 110
+    },
+    {
+        "id": 19,
+        "title": "Silla de Oficina",
+        "description": "Silla ergonómica con reposabrazos y ruedas suaves.",
+        "price": 89.99,
+        "img": "https://example.com/img/silla_oficina1.jpg",
+        "code": "SIL003",
+        "stock": 45
+    },
+    {
+        "id": 20,
+        "title": "Soporte para Laptop",
+        "description": "Soporte ajustable para laptop con ventilación.",
+        "price": 19.99,
+        "img": "https://example.com/img/soporte1.jpg",
+        "code": "SOP004",
+        "stock": 180
+    },
+    
+    {
+        "id": 21,
+        "title": "Juego de Jardinería",
+        "description": "Juego completo de jardinería con herramientas de alta calidad.",
+        "price": 29.99,
+        "img": "https://example.com/img/jardinera100.jpg",
+        "code": "JAR100",
+        "stock": 50
+    }
+]
